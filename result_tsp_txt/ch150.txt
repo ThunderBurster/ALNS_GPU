@@ -1,0 +1,166 @@
+in ALNS func
+ALNS 10 times, with best cost 6590.0019 idx 7
+ALNS 20 times, with best cost 6564.6907 idx 10
+ALNS 30 times, with best cost 6549.2003 idx 6
+ALNS 40 times, with best cost 6549.2003 idx 6
+ALNS 50 times, with best cost 6549.2003 idx 6
+ALNS 60 times, with best cost 6549.2003 idx 6
+ALNS 70 times, with best cost 6549.2003 idx 6
+ALNS 80 times, with best cost 6549.2003 idx 6
+ALNS 90 times, with best cost 6549.2003 idx 6
+ALNS 100 times, with best cost 6549.2003 idx 6
+ALNS 110 times, with best cost 6549.2003 idx 6
+ALNS 120 times, with best cost 6549.2003 idx 6
+ALNS kernel has been invoked 126 times
+depot 150
+request 97, x:12.4793 y:0.2260
+request 102, x:22.3144 y:10.4231
+request 81, x:5.0938 y:115.1554
+request 94, x:35.1936 y:104.5762
+request 106, x:64.4292 y:93.8896
+request 4, x:105.6213 y:90.5110
+request 99, x:139.1548 y:107.3149
+request 142, x:156.2218 y:128.5342
+request 96, x:174.9332 y:53.7126
+request 145, x:262.1488 y:-10.6201
+request 25, x:284.9831 y:9.1075
+request 74, x:304.9186 y:58.1789
+request 17, x:315.5265 y:125.5782
+request 141, x:317.2849 y:144.1955
+request 84, x:358.2520 y:158.3285
+request 64, x:394.8249 y:88.2002
+request 131, x:447.3636 y:135.8640
+request 136, x:525.4655 y:128.8291
+request 49, x:493.5898 y:71.1784
+request 54, x:449.0255 y:51.8339
+request 57, x:461.3672 y:35.0012
+request 140, x:423.9721 y:-10.6836
+request 82, x:358.6881 y:-1.7443
+request 55, x:305.7300 y:-31.8967
+request 89, x:359.3348 y:-80.4534
+request 45, x:353.2579 y:-117.2316
+request 91, x:312.9852 y:-120.5560
+request 53, x:321.4777 y:-136.7420
+request 137, x:361.1111 y:-148.5597
+request 133, x:344.2144 y:-180.8753
+request 130, x:340.9091 y:-268.9183
+request 31, x:362.9677 y:-287.5296
+request 22, x:360.1193 y:-309.8499
+request 37, x:377.5865 y:-307.9045
+request 66, x:399.0801 y:-258.2734
+request 42, x:433.6621 y:-226.9871
+request 108, x:419.8235 y:-191.1927
+request 50, x:438.2952 y:-155.4246
+request 19, x:450.8724 y:-103.7221
+request 24, x:438.4582 y:-72.6698
+request 109, x:500.0270 y:-68.6248
+request 80, x:493.2926 y:-37.1421
+request 28, x:533.7796 y:-10.9474
+request 85, x:521.5764 y:19.6776
+request 134, x:520.1677 y:54.1094
+request 69, x:541.8872 y:59.8269
+request 107, x:550.7575 y:39.3856
+request 101, x:596.8785 y:71.6201
+request 113, x:621.4740 y:42.7484
+request 98, x:619.2550 y:16.9019
+request 18, x:595.9530 y:-6.2692
+request 1, x:574.7366 y:-46.8924
+request 36, x:601.5914 y:-73.9788
+request 5, x:652.5058 y:-72.6736
+request 27, x:635.4225 y:-108.3264
+request 8, x:623.6120 y:-95.2716
+request 41, x:592.5587 y:-107.7543
+request 119, x:560.9769 y:-126.6533
+request 46, x:527.7224 y:-112.0493
+request 138, x:553.4546 y:-170.4676
+request 39, x:579.2154 y:-201.8681
+request 52, x:540.9412 y:-219.8787
+request 117, x:556.9655 y:-265.3349
+request 23, x:528.3460 y:-258.8232
+request 11, x:499.0501 y:-253.9812
+request 115, x:469.1798 y:-308.2069
+request 100, x:462.9432 y:-342.4662
+request 40, x:457.4199 y:-393.0873
+request 56, x:492.9233 y:-403.5209
+request 38, x:509.8268 y:-379.5501
+request 126, x:570.9863 y:-318.6669
+request 68, x:593.4837 y:-310.8661
+request 35, x:622.4731 y:-314.5807
+request 60, x:624.1195 y:-324.1634
+request 10, x:659.9488 y:-360.8128
+request 147, x:653.5265 y:-406.6297
+request 129, x:598.0577 y:-407.8865
+request 16, x:612.2920 y:-478.8759
+request 65, x:585.8094 y:-472.0198
+request 59, x:558.3967 y:-459.3961
+request 139, x:520.7614 y:-540.7892
+request 116, x:462.8173 y:-476.2954
+request 128, x:360.7905 y:-421.6514
+request 26, x:360.1193 y:-466.4502
+request 30, x:319.2705 y:-473.5614
+request 122, x:266.3986 y:-520.1565
+request 73, x:222.2702 y:-530.5891
+request 12, x:154.9674 y:-520.7697
+request 105, x:109.0995 y:-501.7859
+request 90, x:50.3101 y:-521.5921
+request 118, x:28.7915 y:-517.0773
+request 67, x:21.9770 y:-501.0810
+request 127, x:32.8329 y:-463.2864
+request 3, x:16.0025 y:-409.7242
+request 103, x:-22.2248 y:-398.1649
+request 149, x:54.2074 y:-374.8550
+request 114, x:60.2966 y:-383.7532
+request 44, x:54.1454 y:-431.1888
+request 70, x:80.4231 y:-428.2294
+request 43, x:100.8047 y:-404.0411
+request 63, x:172.9770 y:-410.4940
+request 111, x:202.4652 y:-438.5793
+request 135, x:211.6196 y:-464.5496
+request 144, x:270.9952 y:-426.0036
+request 143, x:314.8747 y:-400.8817
+request 146, x:296.8355 y:-389.0596
+request 48, x:296.9115 y:-387.4121
+request 71, x:260.3519 y:-374.8959
+request 79, x:234.0649 y:-315.9169
+request 13, x:245.3472 y:-311.4089
+request 121, x:262.0419 y:-289.3796
+request 76, x:277.8533 y:-267.9815
+request 132, x:241.4317 y:-241.2782
+request 14, x:203.3858 y:-259.6949
+request 77, x:183.2651 y:-271.1271
+request 20, x:103.9646 y:-312.7765
+request 124, x:18.5806 y:-298.1427
+request 21, x:-20.0761 y:-300.9684
+request 148, x:10.6405 y:-270.2410
+request 61, x:6.2499 y:-235.7368
+request 2, x:0.6919 y:-188.0606
+request 112, x:51.0284 y:-157.1583
+request 9, x:61.3506 y:-156.6165
+request 93, x:93.4844 y:-190.0599
+request 87, x:98.1984 y:-215.3681
+request 120, x:134.8695 y:-196.8127
+request 78, x:154.6793 y:-227.0251
+request 58, x:186.8789 y:-228.7413
+request 15, x:209.4888 y:-218.7477
+request 110, x:231.9276 y:-173.7327
+request 104, x:245.5661 y:-164.7651
+request 32, x:244.8643 y:-114.3710
+request 125, x:218.1173 y:-92.3439
+request 51, x:191.3932 y:-130.7629
+request 92, x:179.2617 y:-74.7274
+request 123, x:160.4576 y:-28.8202
+request 34, x:152.3113 y:-80.8275
+request 95, x:107.1609 y:-83.7866
+request 88, x:104.0113 y:-55.9613
+request 7, x:104.0482 y:-36.3906
+request 6, x:75.3085 y:-11.7913
+request 83, x:81.2238 y:-32.4962
+request 29, x:67.2138 y:-58.3866
+request 62, x:42.0260 y:-95.2449
+request 47, x:17.0855 y:-102.6575
+request 72, x:-14.6751 y:-85.6751
+request 75, x:-27.4133 y:-52.2780
+request 33, x:21.3373 y:-34.0378
+request 86, x:-14.7922 y:-14.9620
+depot 0
+total cost:6549.2003

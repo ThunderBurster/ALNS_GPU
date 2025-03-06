@@ -1,0 +1,143 @@
+in ALNS func
+ALNS 10 times, with best cost 118695.4333 idx 2
+ALNS 20 times, with best cost 118695.4333 idx 2
+ALNS 30 times, with best cost 118695.4333 idx 2
+ALNS 40 times, with best cost 118695.4333 idx 2
+ALNS 50 times, with best cost 118695.4333 idx 2
+ALNS 60 times, with best cost 118695.4333 idx 2
+ALNS 70 times, with best cost 118695.4333 idx 2
+ALNS 80 times, with best cost 118695.4333 idx 2
+ALNS 90 times, with best cost 118593.5585 idx 8
+ALNS 100 times, with best cost 118293.5238 idx 7
+ALNS 110 times, with best cost 118293.5238 idx 7
+ALNS 120 times, with best cost 118293.5238 idx 7
+ALNS kernel has been invoked 127 times
+depot 127
+request 6, x:348.0000 y:232.0000
+request 104, x:580.0000 y:-116.0000
+request 113, x:812.0000 y:0.0000
+request 5, x:928.0000 y:-348.0000
+request 105, x:812.0000 y:-348.0000
+request 14, x:696.0000 y:-464.0000
+request 107, x:928.0000 y:-580.0000
+request 19, x:812.0000 y:-812.0000
+request 16, x:1044.0000 y:-1044.0000
+request 20, x:1160.0000 y:-1044.0000
+request 17, x:1508.0000 y:-1508.0000
+request 76, x:1508.0000 y:-1856.0000
+request 78, x:696.0000 y:-2204.0000
+request 79, x:464.0000 y:-2436.0000
+request 30, x:-116.0000 y:-1624.0000
+request 26, x:-348.0000 y:-1740.0000
+request 29, x:-696.0000 y:-1276.0000
+request 11, x:0.0000 y:-1044.0000
+request 13, x:-348.0000 y:-812.0000
+request 40, x:-696.0000 y:-812.0000
+request 35, x:-928.0000 y:-464.0000
+request 36, x:-812.0000 y:-348.0000
+request 34, x:-1160.0000 y:-116.0000
+request 39, x:-1624.0000 y:-580.0000
+request 42, x:-1276.0000 y:-1044.0000
+request 33, x:-1392.0000 y:-1276.0000
+request 41, x:-1856.0000 y:-1392.0000
+request 38, x:-1508.0000 y:-1508.0000
+request 37, x:-1392.0000 y:-1856.0000
+request 25, x:-928.0000 y:-2088.0000
+request 24, x:-1392.0000 y:-3016.0000
+request 32, x:-1624.0000 y:-3132.0000
+request 121, x:-1856.0000 y:-3132.0000
+request 27, x:-2088.0000 y:-3132.0000
+request 28, x:-1508.0000 y:-3480.0000
+request 31, x:-1508.0000 y:-3828.0000
+request 97, x:-9048.0000 y:-7888.0000
+request 96, x:-4524.0000 y:-3828.0000
+request 122, x:-4176.0000 y:-2204.0000
+request 94, x:-4176.0000 y:-928.0000
+request 92, x:-4756.0000 y:464.0000
+request 126, x:-6612.0000 y:0.0000
+request 106, x:-8700.0000 y:4408.0000
+request 110, x:-4524.0000 y:4756.0000
+request 111, x:-3596.0000 y:4988.0000
+request 93, x:-3364.0000 y:3016.0000
+request 45, x:-2436.0000 y:3364.0000
+request 117, x:-2204.0000 y:2900.0000
+request 47, x:-2320.0000 y:2668.0000
+request 52, x:-1972.0000 y:2784.0000
+request 48, x:-1972.0000 y:3016.0000
+request 46, x:-1508.0000 y:2900.0000
+request 54, x:-348.0000 y:3248.0000
+request 65, x:464.0000 y:3364.0000
+request 112, x:1972.0000 y:3364.0000
+request 64, x:1740.0000 y:5568.0000
+request 98, x:4524.0000 y:6032.0000
+request 91, x:4292.0000 y:4756.0000
+request 88, x:3944.0000 y:4640.0000
+request 124, x:3828.0000 y:3364.0000
+request 103, x:6612.0000 y:2320.0000
+request 109, x:5684.0000 y:-1392.0000
+request 84, x:7076.0000 y:-1972.0000
+request 85, x:7192.0000 y:-2088.0000
+request 86, x:7076.0000 y:-2320.0000
+request 87, x:7192.0000 y:-2552.0000
+request 108, x:5800.0000 y:-2784.0000
+request 95, x:5800.0000 y:-3364.0000
+request 118, x:6380.0000 y:-5800.0000
+request 62, x:5452.0000 y:-7540.0000
+request 101, x:1044.0000 y:-10672.0000
+request 100, x:-116.0000 y:-11020.0000
+request 82, x:1160.0000 y:-6728.0000
+request 81, x:1624.0000 y:-6612.0000
+request 125, x:1624.0000 y:-5684.0000
+request 80, x:1624.0000 y:-4640.0000
+request 83, x:1624.0000 y:-4408.0000
+request 116, x:1160.0000 y:-3944.0000
+request 77, x:1276.0000 y:-3132.0000
+request 75, x:1972.0000 y:-2900.0000
+request 74, x:2784.0000 y:-3596.0000
+request 68, x:3828.0000 y:-3248.0000
+request 69, x:3828.0000 y:-2436.0000
+request 70, x:3828.0000 y:-1624.0000
+request 67, x:3016.0000 y:-1972.0000
+request 73, x:2204.0000 y:-1624.0000
+request 72, x:2436.0000 y:-1392.0000
+request 66, x:2552.0000 y:-812.0000
+request 7, x:1740.0000 y:-696.0000
+request 71, x:1624.0000 y:-928.0000
+request 18, x:1392.0000 y:-812.0000
+request 21, x:1160.0000 y:-812.0000
+request 3, x:1160.0000 y:-696.0000
+request 22, x:1276.0000 y:-580.0000
+request 23, x:1160.0000 y:-464.0000
+request 8, x:1392.0000 y:-116.0000
+request 10, x:1276.0000 y:0.0000
+request 2, x:1392.0000 y:696.0000
+request 89, x:2204.0000 y:812.0000
+request 115, x:2320.0000 y:696.0000
+request 59, x:2552.0000 y:812.0000
+request 58, x:3132.0000 y:812.0000
+request 61, x:2668.0000 y:1044.0000
+request 60, x:2436.0000 y:1160.0000
+request 90, x:2320.0000 y:1392.0000
+request 57, x:1856.0000 y:1856.0000
+request 63, x:1856.0000 y:1972.0000
+request 99, x:1392.0000 y:1624.0000
+request 9, x:812.0000 y:928.0000
+request 119, x:580.0000 y:580.0000
+request 12, x:232.0000 y:812.0000
+request 114, x:348.0000 y:1044.0000
+request 49, x:-116.0000 y:1044.0000
+request 4, x:-348.0000 y:1624.0000
+request 51, x:-116.0000 y:2088.0000
+request 123, x:-348.0000 y:2320.0000
+request 55, x:-696.0000 y:1856.0000
+request 120, x:-696.0000 y:1392.0000
+request 56, x:-1160.0000 y:1160.0000
+request 53, x:-1624.0000 y:1276.0000
+request 44, x:-2320.0000 y:928.0000
+request 102, x:-2552.0000 y:696.0000
+request 43, x:-2088.0000 y:580.0000
+request 50, x:-696.0000 y:812.0000
+request 1, x:-464.0000 y:464.0000
+request 15, x:-232.0000 y:-116.0000
+depot 0
+total cost:118293.5238

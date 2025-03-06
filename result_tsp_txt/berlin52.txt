@@ -1,0 +1,68 @@
+in ALNS func
+ALNS 10 times, with best cost 7544.3659 idx 6
+ALNS 20 times, with best cost 7544.3659 idx 6
+ALNS 30 times, with best cost 7544.3659 idx 6
+ALNS 40 times, with best cost 7544.3659 idx 6
+ALNS 50 times, with best cost 7544.3659 idx 6
+ALNS 60 times, with best cost 7544.3659 idx 6
+ALNS 70 times, with best cost 7544.3659 idx 6
+ALNS 80 times, with best cost 7544.3659 idx 6
+ALNS 90 times, with best cost 7544.3659 idx 6
+ALNS 100 times, with best cost 7544.3659 idx 6
+ALNS 110 times, with best cost 7544.3659 idx 6
+ALNS 120 times, with best cost 7544.3659 idx 9
+ALNS kernel has been invoked 126 times
+depot 52
+request 48, x:40.0000 y:50.0000
+request 31, x:10.0000 y:90.0000
+request 44, x:-10.0000 y:240.0000
+request 18, x:-55.0000 y:300.0000
+request 40, x:-90.0000 y:385.0000
+request 7, x:-40.0000 y:425.0000
+request 8, x:15.0000 y:600.0000
+request 9, x:85.0000 y:555.0000
+request 42, x:310.0000 y:345.0000
+request 32, x:585.0000 y:585.0000
+request 50, x:775.0000 y:150.0000
+request 10, x:1040.0000 y:45.0000
+request 51, x:1175.0000 y:-330.0000
+request 13, x:965.0000 y:-570.0000
+request 12, x:900.0000 y:-375.0000
+request 46, x:605.0000 y:-510.0000
+request 25, x:650.0000 y:-330.0000
+request 26, x:755.0000 y:-260.0000
+request 27, x:685.0000 y:-175.0000
+request 11, x:655.0000 y:5.0000
+request 24, x:410.0000 y:5.0000
+request 3, x:380.0000 y:110.0000
+request 5, x:315.0000 y:85.0000
+request 14, x:280.0000 y:105.0000
+request 4, x:280.0000 y:80.0000
+request 23, x:270.0000 y:50.0000
+request 47, x:265.0000 y:35.0000
+request 37, x:230.0000 y:70.0000
+request 36, x:205.0000 y:35.0000
+request 39, x:195.0000 y:75.0000
+request 38, x:155.0000 y:60.0000
+request 35, x:120.0000 y:35.0000
+request 34, x:120.0000 y:20.0000
+request 33, x:135.0000 y:5.0000
+request 43, x:135.0000 y:-75.0000
+request 45, x:265.0000 y:-90.0000
+request 15, x:160.0000 y:-205.0000
+request 28, x:95.0000 y:-395.0000
+request 49, x:30.0000 y:-215.0000
+request 19, x:-5.0000 y:-210.0000
+request 22, x:-85.0000 y:-160.0000
+request 29, x:-155.0000 y:-325.0000
+request 1, x:-540.0000 y:-390.0000
+request 6, x:-540.0000 y:-345.0000
+request 41, x:-470.0000 y:-315.0000
+request 20, x:-265.0000 y:-110.0000
+request 16, x:-420.0000 y:90.0000
+request 2, x:-220.0000 y:175.0000
+request 17, x:-150.0000 y:60.0000
+request 30, x:-145.0000 y:-20.0000
+request 21, x:-45.0000 y:10.0000
+depot 0
+total cost:7544.3659

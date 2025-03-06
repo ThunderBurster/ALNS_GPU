@@ -1,0 +1,86 @@
+in ALNS func
+ALNS 10 times, with best cost 677.1096 idx 15
+ALNS 20 times, with best cost 677.1096 idx 5
+ALNS 30 times, with best cost 677.1096 idx 5
+ALNS 40 times, with best cost 677.1096 idx 5
+ALNS 50 times, with best cost 677.1096 idx 1
+ALNS 60 times, with best cost 677.1096 idx 15
+ALNS 70 times, with best cost 677.1096 idx 15
+ALNS 80 times, with best cost 677.1096 idx 15
+ALNS 90 times, with best cost 677.1096 idx 15
+ALNS 100 times, with best cost 677.1096 idx 15
+ALNS 110 times, with best cost 677.1096 idx 15
+ALNS 120 times, with best cost 677.1096 idx 15
+ALNS kernel has been invoked 126 times
+depot 70
+request 35, x:3.0000 y:3.0000
+request 22, x:3.0000 y:-8.0000
+request 12, x:14.0000 y:-4.0000
+request 28, x:14.0000 y:-2.0000
+request 69, x:20.0000 y:-2.0000
+request 34, x:31.0000 y:-10.0000
+request 68, x:19.0000 y:-10.0000
+request 30, x:18.0000 y:-8.0000
+request 37, x:11.0000 y:-15.0000
+request 58, x:17.0000 y:-20.0000
+request 21, x:12.0000 y:-23.0000
+request 65, x:10.0000 y:-29.0000
+request 62, x:15.0000 y:-26.0000
+request 56, x:25.0000 y:-36.0000
+request 14, x:31.0000 y:-39.0000
+request 23, x:29.0000 y:-42.0000
+request 18, x:28.0000 y:-62.0000
+request 6, x:17.0000 y:-62.0000
+request 1, x:16.0000 y:-57.0000
+request 3, x:8.0000 y:-54.0000
+request 17, x:4.0000 y:-56.0000
+request 41, x:-1.0000 y:-60.0000
+request 31, x:9.0000 y:-68.0000
+request 2, x:5.0000 y:-73.0000
+request 7, x:15.0000 y:-79.0000
+request 25, x:23.0000 y:-78.0000
+request 54, x:34.0000 y:-89.0000
+request 48, x:26.0000 y:-87.0000
+request 27, x:13.0000 y:-83.0000
+request 13, x:0.0000 y:-88.0000
+request 19, x:-2.0000 y:-95.0000
+request 29, x:-9.0000 y:-93.0000
+request 43, x:-12.0000 y:-78.0000
+request 67, x:-16.0000 y:-77.0000
+request 26, x:-34.0000 y:-87.0000
+request 45, x:-39.0000 y:-91.0000
+request 44, x:-52.0000 y:-83.0000
+request 24, x:-58.0000 y:-88.0000
+request 38, x:-56.0000 y:-77.0000
+request 60, x:-47.0000 y:-74.0000
+request 39, x:-44.0000 y:-78.0000
+request 8, x:-34.0000 y:-73.0000
+request 16, x:-24.0000 y:-61.0000
+request 42, x:-20.0000 y:-63.0000
+request 40, x:-10.0000 y:-58.0000
+request 5, x:-6.0000 y:-53.0000
+request 52, x:-8.0000 y:-33.0000
+request 4, x:-16.0000 y:-29.0000
+request 9, x:-22.0000 y:-29.0000
+request 51, x:-27.0000 y:-32.0000
+request 59, x:-35.0000 y:-36.0000
+request 11, x:-35.0000 y:-45.0000
+request 20, x:-36.0000 y:-53.0000
+request 33, x:-37.0000 y:-53.0000
+request 32, x:-44.0000 y:-41.0000
+request 61, x:-59.0000 y:-51.0000
+request 53, x:-54.0000 y:-41.0000
+request 47, x:-59.0000 y:-29.0000
+request 66, x:-54.0000 y:-28.0000
+request 10, x:-57.0000 y:-20.0000
+request 63, x:-55.0000 y:4.0000
+request 64, x:-47.0000 y:-14.0000
+request 55, x:-48.0000 y:-22.0000
+request 50, x:-39.0000 y:-20.0000
+request 49, x:-23.0000 y:-20.0000
+request 57, x:-16.0000 y:-14.0000
+request 36, x:-16.0000 y:-13.0000
+request 46, x:-6.0000 y:-11.0000
+request 15, x:-7.0000 y:-5.0000
+depot 0
+total cost:677.1096

@@ -1,0 +1,18 @@
+in ALNS func
+ALNS kernel has been invoked 7 times
+depot 14
+request 9, x:-2.4200 y:2.0200
+request 8, x:-0.1700 y:1.2800
+request 10, x:0.0600 y:1.2800
+request 7, x:0.7300 y:0.1900
+request 12, x:2.9400 y:1.0300
+request 6, x:4.0000 y:0.9200
+request 11, x:5.0500 y:-0.5100
+request 5, x:5.5300 y:-0.0500
+request 4, x:8.7600 y:1.1400
+request 3, x:5.9200 y:-2.7300
+request 2, x:3.6200 y:-3.5600
+request 13, x:3.6200 y:-1.5500
+request 1, x:0.0000 y:-1.6600
+depot 0
+total cost:30.8785
